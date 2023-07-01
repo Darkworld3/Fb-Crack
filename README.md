@@ -18,7 +18,7 @@
 - `rm -rf Fb-Crack`
 - `git clone https://github.com/Darkworld3/Fb-Crack.git
 - `cd Fb-Crack`
-- `python new.py`
+- `python3 new.py`
 
  
 
